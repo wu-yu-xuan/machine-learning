@@ -1,6 +1,7 @@
 import { Point } from "../types";
 
 /**
+ * 线性回归算法。
  * 副驾驶牛逼
  */
 export default function linearRegression(points: Point[]) {
